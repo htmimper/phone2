@@ -5,5 +5,9 @@ public static void main(String[] args){
  iphone.stop();
  iphone.next();
  iphone.back();
+ iphone.call();
+ iphone.mail();
+ iphone.photo();
+ iphone.internet();
  }
  }
